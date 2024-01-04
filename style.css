@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h3{
+    color:blue
+}
+h2{
+    color: blueviolet;
+}
+a:hover {
+    color: hotpink;
+
+}
